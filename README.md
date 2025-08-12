@@ -74,11 +74,13 @@ http://localhost:5173/
 
 ### Game Rounds
 
-![Player Win](public/screenshots/player-win.png) | ![Computer Win](public/screenshots/comp-win.png)
+![Player Win](public/screenshots/player-win.png)
+![Computer Win](public/screenshots/comp-win.png)
 
 ### War
 
-![War-1](public/screenshots/war-1.png)  |  ![War-2](public/screenshots/war-2.png) 
+![War-1](public/screenshots/war-1.png)  
+![War-2](public/screenshots/war-2.png) 
 
 ### Winner
 
