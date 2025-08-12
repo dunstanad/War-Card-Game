@@ -70,21 +70,21 @@ http://localhost:5173/
 
 ### Game Load
 
-![Game Load](public/screenshots/game-load.png) 
+<img src="public/screenshots/game-load.png" alt="Game Load" width="500" />
 
 ### Game Rounds
 
-![Player Win](public/screenshots/player-win.png)
-![Computer Win](public/screenshots/comp-win.png)
+<img src="public/screenshots/player-win.png" alt="Player Win" width="500" />
+<img src="public/screenshots/comp-win.png" alt="Computer Win" width="500" />
 
 ### War
 
-![War-1](public/screenshots/war-1.png)  
-![War-2](public/screenshots/war-2.png) 
+<img src="public/screenshots/war-1.png" alt="War 1" width="500" />
+<img src="public/screenshots/war-2.png" alt="War 2" width="500" />
 
 ### Winner
 
-![Winner](public/screenshots/winner.png) 
+<img src="public/screenshots/winner.png" alt="Winner" width="500" />
 
 ---
 

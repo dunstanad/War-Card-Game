@@ -1,8 +1,9 @@
 import React from "react";
+import cardBack from "../assets/card-back.png";
 
 export default function Card({ suit, value, faceDown }) {
   const getCardImage = () => {
-    if (faceDown) return "/card-back.png"; // make sure this file is in your public folder
+    if (faceDown) return cardBack;
     let valCode = value === "10" ? "0" : value;
     const suitCode = suit ? suit[0].toUpperCase() : "";
     return `https://deckofcardsapi.com/static/img/${valCode}${suitCode}.png`;
